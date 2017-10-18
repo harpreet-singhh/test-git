@@ -1,4 +1,4 @@
 # test-git
 
-Test repo to simulate git workflow origin version3.0
+Test repo to simulate git workflow origin version4.0
 
